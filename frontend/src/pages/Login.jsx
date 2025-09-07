@@ -64,7 +64,7 @@ function Login() {
       {/* Header */}
       <div className="w-full h-20 flex items-center px-8 gap-3 cursor-pointer" onClick={() => navigate("/")}>
         <img src={Logo} alt="Logo" className="w-10"/>
-        <h1 className="text-2xl font-bold">OneCart</h1>
+        <h1 className="text-2xl font-bold">ShopFusion</h1>
       </div>
 
       {/* Welcome Text */}
