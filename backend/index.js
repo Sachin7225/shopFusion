@@ -17,7 +17,7 @@ let app = express()
 app.use(express.json())
 app.use(cookieParser())
 app.use(cors({
- origin:["https://shopfusion-5-frontend10.onrender.com" , "http://localhost:5174"],
+ origin:["https://shopfusion-5-frontend10.onrender.com" , "https://shopfusion-5-7.onrender.com/"],
  credentials:true
 }))
 
