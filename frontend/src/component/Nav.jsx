@@ -4,7 +4,7 @@ import { IoSearchCircleOutline, IoSearchCircleSharp } from "react-icons/io5";
 import { FaCircleUser } from "react-icons/fa6";
 import { MdOutlineShoppingCart, MdContacts } from "react-icons/md";
 import { IoMdHome } from "react-icons/io";
-import { HiOutlineCollection } from "react-icons/hi";
+import { HiOutlineCollection } from "react-icons/hi"; 
 import { userDataContext } from "../context/UserContext";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
